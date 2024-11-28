@@ -1,0 +1,10 @@
+C:\Users\asdsa\source\repos\finallytask\bin\Debug\finallytask.exe.config
+C:\Users\asdsa\source\repos\finallytask\bin\Debug\finallytask.exe
+C:\Users\asdsa\source\repos\finallytask\bin\Debug\finallytask.pdb
+C:\Users\asdsa\source\repos\finallytask\obj\Debug\finallytask.csproj.AssemblyReference.cache
+C:\Users\asdsa\source\repos\finallytask\obj\Debug\finallytask.csproj.CoreCompileInputs.cache
+C:\Users\asdsa\source\repos\finallytask\obj\Debug\finallytask.exe
+C:\Users\asdsa\source\repos\finallytask\obj\Debug\finallytask.pdb
+C:\Users\asdsa\source\repos\finallytask\bin\Debug\InspectorLib.dll
+C:\Users\asdsa\source\repos\finallytask\bin\Debug\InspectorLib.pdb
+C:\Users\asdsa\source\repos\finallytask\obj\Debug\finallyt.338629A0.Up2Date
